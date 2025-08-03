@@ -38,8 +38,8 @@ VK: <a href="https://vk.com/barinova.polina">Полина Баринова</a>
 ### ✅ Проект по автоматизации API тестов сервиса [Reqres.in](https://reqres.in/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PolinaBarinova&repo=reqresin_api_autotests&theme=shadow_blue)](https://github.com/PolinaBarinova/reqresin_api_autotests)
 
-### ✅ В работе Проект mobile автоматизации тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tyulyaeva&repo=Wikipedia_mobile_autotest&theme=shadow_blue)](https://github.com/tyulyaeva/Wikipedia_mobile_autotest) 
+### ✅ Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PolinaBarinova&repo=wikipedia_mobile_autotests&theme=shadow_blue)](https://github.com/PolinaBarinova/wikipedia_mobile_autotests) 
 ---
 ### 📊 Моя статистика:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolinaBarinova&theme=algolia)
